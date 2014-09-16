@@ -1,1 +1,1 @@
-// Code goes here
+<strong><?php echo 'Hello World!'; ?></strong>
