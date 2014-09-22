@@ -58,7 +58,7 @@ get_header();
         <?php
 
           // Include our exercise if it exists
-          echo file_get_contents( __DIR__ . '/' . $slug . '.php' );
+          //echo file_get_contents( __DIR__ . '/' . $slug . '.php' );
 
         ?>
       </div>
